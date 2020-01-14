@@ -1,7 +1,7 @@
 module.exports = {
   getThemes () {
     return {
-      'plugin-light-mode': {
+      'plugin-Galaxy-mode': {
         cssPath: 'styles/light.css',
         darkMode: false
       }
