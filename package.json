@@ -1,13 +1,13 @@
 {
-  "name": "@arkecosystem/desktop-wallet-theme-template",
+  "name": "@drakeler/galaxy-desktop-wallet-theme-template",
   "version": "0.0.1",
-  "description": "Desktop Wallet Theme Template",
+  "description": "Galaxy Desktop Wallet Theme Template",
   "main": "src/index.js",
-  "author": "Author Name",
+  "author": "Drakeler",
   "license": "MIT",
   "desktop-wallet": {
-    "title": "Theme Template",
-    "logo": "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/theme-template/master/logo.png",
+    "title": "Galaxy Theme",
+    "logo": "https://github.com/Drakeler55/F/blob/master/Theme%20logo.png",
     "categories": [
       "theme"
     ],
@@ -24,14 +24,14 @@
     "plugin"
   ],
   "contributors": [
-    "Author Name"
+    "Drakeler55"
   ],
   "bugs": {
-    "url": "https://github.com/ark-ecosystem-desktop-plugins/theme-template/issues"
+    "url": "https://github.com/drakeler55/theme-template/issues"
   },
-  "homepage": "https://github.com/ark-ecosystem-desktop-plugins/theme-template#readme",
+  "homepage": "https://github.com/drakeler55/theme-template",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ark-ecosystem-desktop-plugins/theme-template.git"
+    "url": "git+https://github.com/drakeler55/theme-template.git"
   }
 }
